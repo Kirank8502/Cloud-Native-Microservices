@@ -1,0 +1,8 @@
+name = "user-service"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "user-db"
+database_id = "40d0aec8-4e36-4383-8934-c9fd07ec82de"
